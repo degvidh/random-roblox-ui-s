@@ -15,9 +15,13 @@ There idea's and looks might be alike, tbr.
 ## Previews
 
 ![image](netcut.png)
+
 ![image](netcut1.png)
+
 ![image](netcut2.png)
+
 ![image](netcut3.png)
+
 ![image](netcut4.png)
 
 ## Status?
