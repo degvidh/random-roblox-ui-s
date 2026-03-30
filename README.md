@@ -24,6 +24,8 @@ There idea's and looks might be alike, tbr.
 
 ![image](netcut4.png)
 
+![image](netcut5.png)
+
 ## Status?
 
 This isn’t a finished project.
